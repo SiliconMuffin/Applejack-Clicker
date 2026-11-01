@@ -1,0 +1,8 @@
+# Generated files
+build/
+*.love
+*.log
+*.tmp
+
+# Local development data
+*.sav
